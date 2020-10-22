@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Rick_Morty_API_React/static/css/main.ce7df9b8.chunk.css",
+    "main.js": "/Rick_Morty_API_React/static/js/main.b333e8f8.chunk.js",
+    "main.js.map": "/Rick_Morty_API_React/static/js/main.b333e8f8.chunk.js.map",
+    "runtime-main.js": "/Rick_Morty_API_React/static/js/runtime-main.6bd5c3d3.js",
+    "runtime-main.js.map": "/Rick_Morty_API_React/static/js/runtime-main.6bd5c3d3.js.map",
+    "static/js/2.70f06b46.chunk.js": "/Rick_Morty_API_React/static/js/2.70f06b46.chunk.js",
+    "static/js/2.70f06b46.chunk.js.map": "/Rick_Morty_API_React/static/js/2.70f06b46.chunk.js.map",
+    "index.html": "/Rick_Morty_API_React/index.html",
+    "precache-manifest.b040006d111a59fb0b5ec36199b9b70d.js": "/Rick_Morty_API_React/precache-manifest.b040006d111a59fb0b5ec36199b9b70d.js",
+    "service-worker.js": "/Rick_Morty_API_React/service-worker.js",
+    "static/css/main.ce7df9b8.chunk.css.map": "/Rick_Morty_API_React/static/css/main.ce7df9b8.chunk.css.map",
+    "static/js/2.70f06b46.chunk.js.LICENSE.txt": "/Rick_Morty_API_React/static/js/2.70f06b46.chunk.js.LICENSE.txt",
+    "static/media/Rick_and_Morty_logo.png": "/Rick_Morty_API_React/static/media/Rick_and_Morty_logo.42d6efdb.png",
+    "static/media/App.css": "/Rick_Morty_API_React/static/media/learn-more.43b859b1.svg",
+    "static/media/portal.png": "/Rick_Morty_API_React/static/media/portal.7efec236.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6bd5c3d3.js",
+    "static/js/2.70f06b46.chunk.js",
+    "static/css/main.ce7df9b8.chunk.css",
+    "static/js/main.b333e8f8.chunk.js"
+  ]
+}
